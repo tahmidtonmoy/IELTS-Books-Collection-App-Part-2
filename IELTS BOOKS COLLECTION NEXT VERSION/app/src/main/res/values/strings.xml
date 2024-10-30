@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">IELTS BOOKS COLLECTION NEXT VERSION</string>
+
+    <!-- Admob AD ON or OFF -->
+    <string name="show_admob_ad">ON</string>
+
+    <!-- Device ID  setTestDeviceIds (search on logcat for device id) -->
+    <string name="device_id">734b4708-11b2-41da-9f15-f75d571366fe</string>
+
+    <!-- Admob APP ID HERE -->
+    <string name="admob_APP_ID">ca-app-pub-8931936554324369~6157926614</string>
+    <!-- Admob Ad Unit IDS Here -->
+    <string name="admob_INTERSTITIAL_UNIT_ID">ca-app-pub-8931936554324369/8668539888</string>
+    <string name="admob_BANNER_UNIT_ID">ca-app-pub-8931936554324369/5731956171</string>
+
+</resources>
